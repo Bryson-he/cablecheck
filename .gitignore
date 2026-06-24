@@ -1,0 +1,8 @@
+﻿installer_output/
+build_tmp/
+install/
+npcap-*.exe
+logs/
+__pycache__/
+*.pyc
+*.spec
